@@ -3,8 +3,7 @@ This repository showcases my Power BI project on E‑Commerce Sales Analysis, wh
 
 Calculated Columns:
 1. Create a Calculated Column for 'Category Type': Add a calculated column in the Order Details table that combines the 'Category' and 'Sub-Category' columns into a
-single 'Category Type' column.
-Answer : I Have created a calculated column named Category Type and used "&" to merge Category and Sub-category and used "-" as Delimiter.
+single 'Category Type' column. Answer : I Have created a calculated column named Category Type and used "&" to merge Category and Sub-category and used "-" as Delimiter.
 
 2. Calculate Revenue per Order in Order Details Table: Create a calculated column in the Order Details table to compute the revenue (Amount * Quantity) per order.
 Answer : I Created a New Column Named "Revenue per order" and multiplied Amount and Quantity using "*" Operator.
