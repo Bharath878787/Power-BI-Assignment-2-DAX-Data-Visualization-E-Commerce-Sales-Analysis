@@ -24,7 +24,6 @@ Answer : I have created a new Measure named Average profit in Delhi using Calcul
 6. Calculate Year-to-Date (YTD) Sales: Define a measure to calculate the total sales amount accumulated from the earliest order date up to each order date.
 Answer : I have created a New Measure name YTD Sales and used TOTALYTD DAX Function.
 
-
 Data Visualization:
 7. Sales Target Achievement by Category: Compare actual sales with sales targets by category using a clustered column chart.
 Answer : I have created a Clustered Column chart and dragged category column into x-axis and sum of amount from order Details Table and sum of target in y-axis from Sales Target Table.
